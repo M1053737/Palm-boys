@@ -8,7 +8,7 @@ public class Hello {
 		System.out.println("nagis");
 		System.out.println("Backkkkk");
 		System.out.println("dsds");
-		System.out.println("go to hell");
+		System.out.println("go to heaven");
 	}
 
 }
